@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Henrique Moura</h1>
-<h3 align="center">Só fiz pra postar os projetos que Giulia Faz.</h3>
+<h1 align="center">Henrilia</h1>
+<h3 align="center">Só fiz pra postar os projetos que Giulia Faz. Não gosto do github</h3>
 
 
 
