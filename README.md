@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henrique Moura</h1>
-<h3 align="center">A future Full Stack developer. Passionate about technology, programming and Wasteland.</h3>
+<h3 align="center">Só fiz pra postar os projetos que Giulia Faz.</h3>
 
-- 🌱 I’m currently learning **Javascript**
+
 
 - 📫 How to reach me **henriquemoura1887@protonmail.com**
 
